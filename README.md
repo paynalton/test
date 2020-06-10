@@ -1,2 +1,0 @@
-# test
-Proyecto de prueba
