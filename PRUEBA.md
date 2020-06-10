@@ -25,3 +25,4 @@ Crea una interfaz web que realice lo siguiente:
 - Dar algo de estilo a las interfaces
 - Puedes cambiar el archivo docker-compose.yml si lo deseas
 - Si tienes comentario u observaciones, agrega un archivo README.md
+- Si tienes alguna duda puedes contactarme por correo a carlos@sodigital.mx
